@@ -1,16 +1,10 @@
- # class_8
+ # Calculator App
 
-A new Flutter project.
+## <i>A new Flutter project.</i>
 
-## Getting Started
+![Screenshot_1702721779](https://github.com/DevByShahzaib/Calculator-App/assets/108393358/f26d8608-0949-4c4f-b0be-2808a29754c8)
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1702721807](https://github.com/DevByShahzaib/Calculator-App/assets/108393358/5e9b75c6-a160-434a-a769-a6c4ba743e1f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
